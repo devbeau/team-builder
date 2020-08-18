@@ -51,7 +51,7 @@ function onSubmit(event){
                 <option value = 'Design'>Design</option>
             </select> 
         </label>
-        <div submit-button-container>
+        <div className='submit-button-container'>
             <button>Submit</button>
         </div>
     </form>
